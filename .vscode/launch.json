@@ -1,0 +1,25 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        
+          
+
+        
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open Index.html",
+            "file": "c:\\Users\\rawan\\Documents\\Reichwein\\GMT\\Herr Frische\\HTML\\Meine erste Seite\\Index.html"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open Index2.html",
+            "file": "c:\\Users\\rawan\\Documents\\Reichwein\\GMT\\Herr Frische\\HTML\\Meine erste Seite\\Index2.html"
+        }
+    ]
+}
